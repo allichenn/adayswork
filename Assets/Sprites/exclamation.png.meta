@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 29963c4598df94dcca03f3a13e4bae78
+guid: 5e626fcbbeb92464db74da73b9b46292
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5970286848802884011
-    second: donut1_0
+      213: 5522654982662980753
+    second: exclamation_0
   - first:
-      213: -6917463159578101494
-    second: donut1_1
+      213: -2911999495128979909
+    second: exclamation_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: donut1_0
+      name: exclamation_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 72
-        height: 53
+        width: 18
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba9051ec148bad250800000000000000
-      internalID: 5970286848802884011
+      spriteID: 1940baa427964ac40800000000000000
+      internalID: 5522654982662980753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: donut1_1
+      name: exclamation_1
       rect:
         serializedVersion: 2
-        x: 72
+        x: 18
         y: 0
-        width: 72
-        height: 53
+        width: 18
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a09fe7a18eb3000a0800000000000000
-      internalID: -6917463159578101494
+      spriteID: b3668ba33ef7697d0800000000000000
+      internalID: -2911999495128979909
       vertices: []
       indices: 
       edges: []

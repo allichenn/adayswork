@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 29963c4598df94dcca03f3a13e4bae78
+guid: 73a54483037014bc4a815d3c218ea99e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5970286848802884011
-    second: donut1_0
+      213: 8166710274925509176
+    second: red_0
   - first:
-      213: -6917463159578101494
-    second: donut1_1
+      213: -523259844147669826
+    second: red_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: donut1_0
+      name: red_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 72
-        height: 53
+        width: 51
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba9051ec148bad250800000000000000
-      internalID: 5970286848802884011
+      spriteID: 83ab778d9bbf55170800000000000000
+      internalID: 8166710274925509176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: donut1_1
+      name: red_1
       rect:
         serializedVersion: 2
-        x: 72
+        x: 51
         y: 0
-        width: 72
-        height: 53
+        width: 51
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a09fe7a18eb3000a0800000000000000
-      internalID: -6917463159578101494
+      spriteID: eb41a50b1f10db8f0800000000000000
+      internalID: -523259844147669826
       vertices: []
       indices: 
       edges: []

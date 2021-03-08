@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 29963c4598df94dcca03f3a13e4bae78
+guid: f2e97401fecf84100995a2c075a05d60
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5970286848802884011
-    second: donut1_0
+      213: -6410442598547967069
+    second: orange_0
   - first:
-      213: -6917463159578101494
-    second: donut1_1
+      213: 4048211436333636307
+    second: orange_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -105,12 +105,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: donut1_0
+      name: orange_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 72
+        width: 55
         height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -119,19 +119,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba9051ec148bad250800000000000000
-      internalID: 5970286848802884011
+      spriteID: 3a3348cab688907a0800000000000000
+      internalID: -6410442598547967069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: donut1_1
+      name: orange_1
       rect:
         serializedVersion: 2
-        x: 72
+        x: 55
         y: 0
-        width: 72
+        width: 55
         height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a09fe7a18eb3000a0800000000000000
-      internalID: -6917463159578101494
+      spriteID: 3da175e5ad22e2830800000000000000
+      internalID: 4048211436333636307
       vertices: []
       indices: 
       edges: []
